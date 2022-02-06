@@ -264,24 +264,31 @@ export const VALIDGUESSES = [
   'ʉnʉ̠ha',
   'ʉtsumi',
   'ʉʔbʉi',
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  'waapi',
+  'waapi̠',
+  'waata̠',
+  'waatsa̠',
+  'waatsʉ',
+  'wahta',
+  'waʔoo',
+  'weeki',
+  'weesi',
+  'wihna',
+  'wihnu',
+  'wiyaa',
+  'wohya',
+  'woobi',
+  'woone',
+  'woosa',
+  'woʔne',
+  'wʉtui',
+  'yaarʉ',
+  'yuʔai',
+  'yʉhnʉ',
+  'yʉʉkwi',
+  'yʉʉnʉ',
+  'yʉʉtsʉ',
+  'yʉʔha',
 ]
 
 if (CONFIG.normalization) {
