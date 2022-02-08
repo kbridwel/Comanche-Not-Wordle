@@ -1,7 +1,7 @@
 {
     "name": "wordle",
     "version": "0.1.0",
-    "homepage": "https://github.com/kbridwel/Comanche-Not-Wordle",
+    "homepage": "https://kbridwel.github.io/Comanche-Not-Wordle",
     "private": true,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
